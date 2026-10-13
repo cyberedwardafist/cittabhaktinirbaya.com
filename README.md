@@ -67,4 +67,3 @@ Citta Bhakti Nirbaya (CIBN) dipakai untuk menjalankan ujian berbasis komputer. A
 ## Link
 
 [www.cittabhaktinirbaya.com](https://www.cittabhaktinirbaya.com)
-"# cittabhaktinirbaya.com" 
